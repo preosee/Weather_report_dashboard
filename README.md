@@ -24,4 +24,4 @@ Key Visuals:
 .Gauges for wind speed
 .Charts for daily variations.
 
-Screenshot:
+Screenshot:https://github.com/preosee/Weather_report_dashboard/blob/main/weather_dashboard.png
